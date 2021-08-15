@@ -1,0 +1,7 @@
+git clone "DuongDan"
+git add "Tenfile"
+git commit -m "Tenfile"
+git push origin TenNhanh
+git clone "DuongDan" TenNhanh
+git checkout TenNhanh
+git pull origin TenNhanh
