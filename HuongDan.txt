@@ -1,3 +1,0 @@
-git clone "DuongDan"
-git add
-git commit
