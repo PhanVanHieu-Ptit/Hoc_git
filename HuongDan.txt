@@ -1,7 +1,7 @@
-git clone "DuongDan"
-git add "Tenfile"
+git clone "DuongDan" ->load ve may tinh
+git add "Tenfile" ->them file vao, (phai tao file san trong foder moi them duoc)
 git commit -m "Tenfile"
-git push origin TenNhanh
-git clone "DuongDan" TenNhanh
-git checkout TenNhanh
+git push origin TenNhanh ->day len git
+git clone "DuongDan" TenNhanh ->load mot nhanh ve
+git checkout TenNhanh ->roi khoi nhanh do
 git pull origin TenNhanh
